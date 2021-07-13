@@ -1,0 +1,10 @@
+D:\CursoDotNet\Culebrita\Snake\Snake\bin\Debug\Snake.exe.config
+D:\CursoDotNet\Culebrita\Snake\Snake\bin\Debug\Snake.exe
+D:\CursoDotNet\Culebrita\Snake\Snake\bin\Debug\Snake.pdb
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.Form1.resources
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.exe
+D:\CursoDotNet\Culebrita\Snake\Snake\obj\Debug\Snake.pdb
